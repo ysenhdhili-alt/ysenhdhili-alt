@@ -1,5 +1,17 @@
 # 💫 About Me:
-# Hi, I'm a 4th-Year Engineering Student 👋<br><br>🎓 Engineering student specializing in Artificial Intelligence and Data Science.<br><br>I'm currently learning programming, machine learning, and AI development by building practical projects.<br><br>### 🌱 Currently Learning<br>- Python<br>- Machine Learning<br>- Artificial Intelligence<br>- HTML, CSS & JavaScript<br>- Flask and API development<br><br>### 🛠️ Technologies<br>- Python<br>- HTML & CSS<br>- JavaScript<br>- Flask<br>- Git & GitHub<br>- Ollama<br><br>### 🚀 Projects<br>- 🤖 **StudyBot AI** — A local AI study assistant built with Python, Flask, and Ollama.<br>- 📱 **Phone Price Predictor** — A machine learning project for predicting mobile phone prices.<br><br>### 🎯 My Goal<br>To improve my problem-solving skills, build useful projects, and grow as an AI engineer.<br><br>*Learning, building, and improving every day.*
+## Hi, I'm a 4th-Year Engineering Student 👋
+
+🎓 Specializing in Artificial Intelligence & Data Science.
+
+🌱 **Currently Learning:** Python, Machine Learning, JavaScript, Flask, and AI development.
+
+🛠️ **Projects**
+- 🤖 **StudyBot AI** — AI study assistant using Python, Flask, and Ollama.
+- 📱 **Phone Price Predictor** — ML project to predict mobile phone prices.
+
+🎯 **Goal:** Improve my problem-solving skills and build useful AI projects.
+
+*Learning and building every day! 🚀**
 
 
 ## 🌐 Socials:
